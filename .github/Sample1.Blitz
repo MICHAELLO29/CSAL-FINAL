@@ -1,0 +1,8 @@
+Main() {
+    lakas = "Hello there Cutie: ";
+    num = Insert("Enter a number: ");
+    complex = 100 * 2 + 200 * num - 5 / 2 + num;
+    name = Insert("Enter a name: ");
+    Engage("The result is: ",complex);
+    Engage(lakas, name);
+}

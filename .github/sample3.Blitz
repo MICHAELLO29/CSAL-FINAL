@@ -1,0 +1,6 @@
+Main() {
+    firstnum = Insert("Enter a number: ");
+    secondnum = Insert("Enter another number: ");
+    compute = firstnum + secondnum * 20 / 2 + 500;
+    Engage("This is the result: ",compute);
+}

@@ -1,0 +1,5 @@
+Main() {
+    sample = "Hello ";
+    name = Insert("Enter a name: ");
+    Engage(sample,name);
+}

@@ -1,0 +1,6 @@
+Main() {
+      a = Insert("Enter a number: ");
+      b = Insert("Enter another number: ");
+      answer = 2 * 3 + a - 2 / b - 2;
+      Engage("Answer: ", answer); 
+}
